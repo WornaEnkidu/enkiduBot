@@ -16,10 +16,20 @@
 
   "dependencies": {
 
-    "discord.js": "12.4.1",
+    "discord.js": "^12.4.1",
 
-    "request": "2.88.2"
+    "request": "^2.88.2",
+    
+    "ytdl-core": "^4.0.3",
+    
+    "ytpl": "^1.0.1",
+    
+    "ffmpeg": "0.0.4",
+    
+    "ffmpeg-static": "^4.2.7",
 
+    "opusscript": "0.0.7"
+  
   }
 
 }
