@@ -22,13 +22,13 @@
     "discord.js": "^12.4.1",
     "ffmpeg": "0.0.4",
     "ffmpeg-static": "^4.2.7",
-	"jquery": "^3.5.1",
+	  "jquery": "^3.5.1",
     "jsdom": "^16.4.0",
     "opusscript": "0.0.7",
     "request": "^2.88.2",
-	"spotify-web-api-node": "^5.0.0",
+	  "spotify-web-api-node": "^5.0.0",
     "ytdl-core": "^4.0.3",
-    "ytpl": "0.3.0"
+    "ytpl": "1.0.1"
   
   }
 
