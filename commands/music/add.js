@@ -17,6 +17,7 @@ module.exports = {
       }
       if(ytpl.validateID(args[1])) {
         const playlistID = await ytpl.getPlaylistID(args[1]);
+        console.log(playlistID);
         const results = await ytpl(playlistID);
         var playlistProcess;
         message.channel.send({
