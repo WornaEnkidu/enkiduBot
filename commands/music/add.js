@@ -18,7 +18,7 @@ module.exports = {
       if(ytpl.validateID(args[1])) {
         const playlistID = await ytpl.getPlaylistID(args[1]);
         const results = await ytpl(playlistID,function(err, playlist) {
-          if(err) throw err;
+          if(err)  console.log(playlist);;
           console.log(playlist);
         });
         var playlistProcess;
