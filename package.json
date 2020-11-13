@@ -28,7 +28,7 @@
     "request": "^2.88.2",
 	"spotify-web-api-node": "^5.0.0",
     "ytdl-core": "^4.0.3",
-    "ytpl": "^1.0.1"
+    "ytpl": "^0.2.3"
   
   }
 
